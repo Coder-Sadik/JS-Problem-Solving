@@ -1,6 +1,5 @@
 function parseString(...inputs) {
 	let sum = 0;
-	let text = "";
 
 	for (let input of inputs) {
 		if (!isNaN(input)) {
