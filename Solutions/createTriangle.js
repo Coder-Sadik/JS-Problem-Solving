@@ -23,4 +23,14 @@ const createTriangle = (n) => {
 	}
 };
 
-createTriangle(4);
+createTriangle(5);
+
+/* 
+Output: 
+         *        
+       *   *
+     *   *   *
+   *   *   *   *
+ *   *   *   *   *
+
+*/
